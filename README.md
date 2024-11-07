@@ -24,7 +24,7 @@ Right now, I'm working on:
 
 I’m open to chat, help out, or talk tech. 
 
-- **GitHub:** [papiri](https://github.com/papiri) *(add your link if you have one)*
+- **GitHub:** [papiri](https://github.com/D3fault07)
 - **Discord:** [papiri](https://discordapp.com/users/1254436652294602922)
 
 ## 🌐 Languages I Speak
